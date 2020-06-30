@@ -1,5 +1,17 @@
 body {
-  color: purple;
+  color: #333;
   text-align: center;
   font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+  border: 3px solid #DDD;
+}
+
+.info p {
+  font-size: 18px;
 }
