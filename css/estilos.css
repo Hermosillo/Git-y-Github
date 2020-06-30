@@ -1,16 +1,39 @@
 body {
   color: #333;
-  text-align: center;
+  font-family: Arial;
   margin: 0;
-  padding: 0;
+  padding: 2rem 0;
 }
 
+h1, p {
+  margin: 0;
+}
 .container {
   width: 70%;
   margin: 0 auto;
   border: 3px solid #DDD;
 }
-
+.cabecera {
+  background-color: #33A;
+  color: white;
+  padding: 1rem 3rem;
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.7);
+}
+.cabecera span {
+  font-size: 20px;
+  font-weight: 300;
+}
+.info {
+  padding: 3rem;
+}
 .info p {
   font-size: 18px;
+}
+.sigueme {
+  margin-top: 2rem;
+}
+.sigueme a {
+  text-decoration: none;
 }
