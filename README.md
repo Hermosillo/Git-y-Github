@@ -1,2 +1,2 @@
-# Git-y-Github
+# Hyperblog
 Curso de Git y Github en Platzi
