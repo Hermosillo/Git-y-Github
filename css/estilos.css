@@ -2,7 +2,7 @@ body {
   color: #333;
   font-family: Arial;
   margin: 0;
-  padding: 0;
+  padding: 2rem 0;
 }
 
 h1, p {
@@ -30,4 +30,10 @@ h1, p {
 }
 .info p {
   font-size: 18px;
+}
+.sigueme {
+  margin-top: 2rem;
+}
+.sigueme a {
+  text-decoration: none;
 }
